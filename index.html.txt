@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smallest Particle Tech</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f6f8;
+        }
+
+        header {
+            background-color: #0a3d62;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #1e3799;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background-color: #0a3d62;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Smallest Particle Tech</h1>
+    <p>Learning Computer Education Made Simple</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Computer Basics</a>
+    <a href="#">HTML Lessons</a>
+    <a href="#">Practice</a>
+    <a href="#">Contact</a>
+</nav>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Welcome 👋</h2>
+        <p>
+            Welcome to <b>Smallest Particle Tech</b>, a learning platform designed
+            to help students understand Computer Education from basic to advanced level.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>What You Will Learn</h2>
+        <ul>
+            <li>Introduction to Computers</li>
+            <li>Parts of a Computer</li>
+            <li>HTML & Web Design</li>
+            <li>Practical Computer Skills</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Today's Tip 💡</h2>
+        <p>
+            HTML is the foundation of every website.  
+            Learning it is the first step to becoming a web developer.
+        </p>
+    </div>
+
+</div>
+
+<footer>
