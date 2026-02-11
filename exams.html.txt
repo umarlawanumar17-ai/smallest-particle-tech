@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Exam | Smallest Particle Tech</title>
+</head>
+<body>
+
+<h2>HTML Quiz</h2>
+
+<p>1. What does HTML stand for?</p>
+<button onclick="check('a')">Hyper Text Markup Language</button><br>
+<button onclick="check('b')">High Text Machine Language</button>
+
+<p id="result"></p>
+
+<script src="quiz.js"></script>
+
+</body>
+</html>

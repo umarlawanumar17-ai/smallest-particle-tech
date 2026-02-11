@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Notes</title>
+</head>
+<body>
+    <h2>Computer Education Notes</h2>
+    <ul>
+        <li>Computer is an electronic device</li>
+        <li>Input → Process → Output</li>
+        <li>HTML is used to create websites</li>
+    </ul>
+</body>
+</html>

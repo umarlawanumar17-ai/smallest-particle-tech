@@ -104,3 +104,8 @@
 </div>
 
 <footer>
+    © 2026 Smallest Particle Tech | Computer Education
+</footer>
+
+</body>
+</html>

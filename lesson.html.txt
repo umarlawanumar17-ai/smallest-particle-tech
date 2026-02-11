@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Lessons</title>
+</head>
+<body>
+    <h2>HTML Lesson 1</h2>
+    <p>HTML stands for HyperText Markup Language.</p>
+
+    <h3>Basic Structure</h3>
+    <pre>
+&lt;html&gt;
+&lt;head&gt;&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+    </pre>
+</body>
+</html>

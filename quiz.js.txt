@@ -1,0 +1,7 @@
+﻿function check(answer) {
+    if (answer === 'a') {
+        document.getElementById("result").innerHTML = "Correct ✅";
+    } else {
+        document.getElementById("result").innerHTML = "Wrong ❌";
+    }
+}
